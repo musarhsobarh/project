@@ -1,0 +1,99 @@
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.col{
+    width: 24%;
+    height: 300px;
+    background-color: gray;
+    margin-bottom: 15px;
+}
+.col1{
+    background: url(./img/png_20230810_160053_0000.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col2{
+    background: url(./img/png_20230810_160053_0000.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col3{
+    background: url(./img/images\ \(12\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col4{
+    background: url(./img/images\ \(13\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col5{
+    background: url(./img/images\ \(14\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col6{
+    background: url(./img/images\ \(15\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col7{
+    background: url(./img/images\ \(16\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col7{
+    background: url(./img/images\ \(17\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col8{
+    background: url(./img/images\ \(18\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col9{
+    background: url(./img/images\ \(19\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col10{
+    background: url(./img/images\ \(20\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col11{
+    background: url(./img/images\ \(21\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col12{
+    background: url(./img/images\ \(24\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ul li a{
+    text-decoration: none;
+}
+ol li a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
